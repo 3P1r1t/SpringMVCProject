@@ -1,0 +1,4 @@
+# 项目排除路径
+/out/
+/SpingMVC-01/target/
+/SpringMVC-02/target/
